@@ -1,0 +1,14 @@
+{
+  "name": "phphead/modules-HeraldClient",
+  "authors": [{
+    "name": "phphead",
+    "email": "me@phphead.ru"
+  }],
+  "require": {
+    "php": ">=5.3.9"
+  },
+  "type": "library",
+  "autoload": {
+    "classmap": ["."]
+  }
+}
